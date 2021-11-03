@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "558b5c3e-7943-4cd2-9e24-08cf12fa688f": {
+      "ProjectGuid": "558b5c3e-7943-4cd2-9e24-08cf12fa688f",
+      "DisplayName": "Average Skin Compiler",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

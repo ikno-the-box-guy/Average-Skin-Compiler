@@ -1,0 +1,9 @@
+C:\Users\erwtj\source\repos\Average Skin Compiler\Average Skin Compiler\bin\Release\Average Skin Compiler.exe.config
+C:\Users\erwtj\source\repos\Average Skin Compiler\Average Skin Compiler\bin\Release\Average Skin Compiler.exe
+C:\Users\erwtj\source\repos\Average Skin Compiler\Average Skin Compiler\bin\Release\Average Skin Compiler.pdb
+C:\Users\erwtj\source\repos\Average Skin Compiler\Average Skin Compiler\bin\Release\System.Drawing.Common.dll
+C:\Users\erwtj\source\repos\Average Skin Compiler\Average Skin Compiler\obj\Release\Average Skin Compiler.csproj.AssemblyReference.cache
+C:\Users\erwtj\source\repos\Average Skin Compiler\Average Skin Compiler\obj\Release\Average Skin Compiler.csproj.SuggestedBindingRedirects.cache
+C:\Users\erwtj\source\repos\Average Skin Compiler\Average Skin Compiler\obj\Release\Average Skin Compiler.csproj.CoreCompileInputs.cache
+C:\Users\erwtj\source\repos\Average Skin Compiler\Average Skin Compiler\obj\Release\Average Skin Compiler.exe
+C:\Users\erwtj\source\repos\Average Skin Compiler\Average Skin Compiler\obj\Release\Average Skin Compiler.pdb
